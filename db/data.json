@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Santorini Sunset Escape",
+    "image": "https://example.com/santorini.jpg",
+    "description": "Experience iconic sunsets over whitewashed cliffs.",
+    "long_description": "Spend your days exploring volcanic beaches and your evenings watching the famous Santorini sunset in Oia. Enjoy local Greek cuisine, wine tastings, and breathtaking views of the Aegean Sea.",
+    "rating": 5
+  },
+  {
+    "name": "Swiss Alps Adventure",
+    "image": "https://example.com/swiss-alps.jpg",
+    "description": "A scenic mountain adventure in Switzerland.",
+    "long_description": "Discover the beauty of the Swiss Alps with hiking, skiing, and picturesque villages. Ride panoramic trains and enjoy fresh alpine air surrounded by snow-capped peaks.",
+    "rating": 5
+  },
+  {
+    "name": "Tokyo City Lights",
+    "image": "https://example.com/tokyo.jpg",
+    "description": "Dive into Tokyo's vibrant urban life.",
+    "long_description": "Explore Tokyo’s blend of tradition and modernity. Visit ancient temples, dine on world-class sushi, and experience the bustling nightlife of Shibuya and Shinjuku.",
+    "rating": 4
+  },
+  {
+    "name": "Safari in Serengeti",
+    "image": "https://example.com/serengeti.jpg",
+    "description": "Witness wildlife in its natural habitat.",
+    "long_description": "Embark on a safari adventure across the Serengeti. See lions, elephants, and the Great Migration while staying in luxury lodges under the African sky.",
+    "rating": 5
+  },
+  {
+    "name": "Paris Romantic Getaway",
+    "image": "https://example.com/paris.jpg",
+    "description": "Fall in love with the City of Light.",
+    "long_description": "Stroll along the Seine, visit the Eiffel Tower, and indulge in fine French cuisine. Paris offers timeless romance and culture at every corner.",
+    "rating": 5
+  },
+  {
+    "name": "New York City Explorer",
+    "image": "https://example.com/nyc.jpg",
+    "description": "The city that never sleeps awaits.",
+    "long_description": "Visit iconic landmarks like Times Square, Central Park, and the Statue of Liberty. Enjoy Broadway shows, diverse food, and endless entertainment.",
+    "rating": 4
+  },
+  {
+    "name": "Bali Tropical Retreat",
+    "image": "https://example.com/bali.jpg",
+    "description": "Relax in paradise surrounded by nature.",
+    "long_description": "Unwind on Bali’s beautiful beaches, explore lush rice terraces, and rejuvenate with yoga and spa treatments in Ubud.",
+    "rating": 5
+  },
+  {
+    "name": "Iceland Northern Lights",
+    "image": "https://example.com/iceland.jpg",
+    "description": "Chase the magical aurora borealis.",
+    "long_description": "Experience Iceland’s dramatic landscapes, including geysers, waterfalls, and glaciers. At night, witness the breathtaking Northern Lights.",
+    "rating": 5
+  },
+  {
+    "name": "Rome Historical Tour",
+    "image": "https://example.com/rome.jpg",
+    "description": "Step into ancient history.",
+    "long_description": "Explore the Colosseum, Roman Forum, and Vatican City. Enjoy authentic Italian cuisine while walking through centuries of history.",
+    "rating": 4
+  },
+  {
+    "name": "Great Barrier Reef Dive",
+    "image": "https://example.com/reef.jpg",
+    "description": "Discover underwater wonders.",
+    "long_description": "Dive into the world’s largest coral reef system. Encounter vibrant marine life and crystal-clear waters in Australia.",
+    "rating": 5
+  },
+  {
+    "name": "Machu Picchu Trek",
+    "image": "https://example.com/machu-picchu.jpg",
+    "description": "Hike to ancient Incan ruins.",
+    "long_description": "Journey through the Andes on the Inca Trail to reach the iconic Machu Picchu. A rewarding adventure filled with history and stunning views.",
+    "rating": 5
+  },
+  {
+    "name": "Dubai Luxury Experience",
+    "image": "https://example.com/dubai.jpg",
+    "description": "Experience luxury in the desert.",
+    "long_description": "Visit towering skyscrapers, shop in world-class malls, and enjoy desert safaris with dune bashing and camel rides.",
+    "rating": 4
+  },
+  {
+    "name": "London Cultural Tour",
+    "image": "https://example.com/london.jpg",
+    "description": "Explore historic London.",
+    "long_description": "Visit Buckingham Palace, the British Museum, and iconic landmarks like Big Ben. Enjoy theater in the West End.",
+    "rating": 4
+  },
+  {
+    "name": "Patagonia Wilderness Expedition",
+    "image": "https://example.com/patagonia.jpg",
+    "description": "Untouched nature and dramatic landscapes.",
+    "long_description": "Explore glaciers, mountains, and remote wilderness in Patagonia. Perfect for hikers and nature lovers.",
+    "rating": 5
+  },
+  {
+    "name": "Hawaii Island Hopping",
+    "image": "https://example.com/hawaii.jpg",
+    "description": "Discover the Hawaiian islands.",
+    "long_description": "Visit multiple islands, each offering unique experiences—from volcanoes to beaches and lush rainforests.",
+    "rating": 5
+  },
+  {
+    "name": "Barcelona Art & Beach",
+    "image": "https://example.com/barcelona.jpg",
+    "description": "A blend of art and seaside relaxation.",
+    "long_description": "Admire Gaudí’s architecture, stroll Las Ramblas, and relax on Mediterranean beaches.",
+    "rating": 4
+  },
+  {
+    "name": "Canadian Rockies Road Trip",
+    "image": "https://example.com/rockies.jpg",
+    "description": "Drive through stunning landscapes.",
+    "long_description": "Explore Banff and Jasper National Parks with turquoise lakes, wildlife, and scenic drives.",
+    "rating": 5
+  },
+  {
+    "name": "Thailand Island Adventure",
+    "image": "https://example.com/thailand.jpg",
+    "description": "Explore tropical islands and culture.",
+    "long_description": "Visit Phuket, Krabi, and Phi Phi Islands. Enjoy beaches, temples, and vibrant nightlife.",
+    "rating": 4
+  },
+  {
+    "name": "South African Cape Town Escape",
+    "image": "https://example.com/capetown.jpg",
+    "description": "Mountains, beaches, and culture.",
+    "long_description": "Visit Table Mountain, Cape Point, and nearby vineyards. Experience diverse landscapes and rich history.",
+    "rating": 5
+  },
+  {
+    "name": "Norwegian Fjords Cruise",
+    "image": "https://example.com/fjords.jpg",
+    "description": "Cruise through dramatic fjords.",
+    "long_description": "Sail past towering cliffs, waterfalls, and charming villages in Norway’s breathtaking fjord region.",
+    "rating": 5
+  }
+]
